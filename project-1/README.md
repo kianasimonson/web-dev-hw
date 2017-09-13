@@ -19,4 +19,4 @@ This will be so valuable knowing later on in life.
 
 ![Screenshot Of my Directory](./images/screenshot-1.ong) I believe my organizational skills will increasingly get better, even though I would say I'm organized  now.
 
-Looking forward to learning more and hoping I can keep up with the pace. 
+Looking forward to learning more and hoping I can keep up with the pace.
