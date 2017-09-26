@@ -1,6 +1,6 @@
 README.md
 
-<h3>Topic 4 report<h3 />
+Topic 4 report
 
 Every week is so much new information and I am doing the best I can to keep up with it all.
 <br />
