@@ -12,3 +12,8 @@ Project 2 is a fun way portraying the homework. I chose to do a recipe because m
 <br />
 
 I'm excited to see how Project 2 turns out.
+
+<br/>
+
+Project 2 continuation
+This week has definitely been more difficult then the last. I believe each week is going to get harder and harder, but I do feel like I am learning a lot. 
