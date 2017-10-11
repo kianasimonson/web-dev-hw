@@ -16,4 +16,4 @@ I'm excited to see how Project 2 turns out.
 <br/>
 
 Project 2 continuation
-This week has definitely been more difficult then the last. I believe each week is going to get harder and harder, but I do feel like I am learning a lot. 
+This week has definitely been more difficult then the last. I believe each week is going to get harder and harder, but I do feel like I am learning a lot. I think one of the hardest things for me is getting the coding right for an image. I feel as if I follow the directions and put it exactly as it states but it never shows an image. When you have to incorporate things that have been saved in other files, I believe this is what I struggle with most.  
