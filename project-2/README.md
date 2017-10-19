@@ -22,4 +22,4 @@ This week has definitely been more difficult then the last. I believe each week 
 <br>
 Topic 6
 <br/>
-I was very proud of myself I ended up figuring out the coding for images. That was a small feat in the big scheme of things to do for this week. 
+I was very proud of myself I ended up figuring out the coding for images. That was a small feat in the big scheme of things to do for this week. After I figured the coding out for images, this week I couldn't get it right for the videos. I'm really happy with how my project is coming along and excited to see the end result.
