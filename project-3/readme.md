@@ -1,9 +1,10 @@
 
 <!DOCTYPE html>
-<html lang="en">
-  <head>
+<html>
+<head>
+    <meta charset="utf-8">
     <title>Invisible</title>
-  </head>
+</head>
   <body>
 <h1>Kiana Simonson </h1>
 
