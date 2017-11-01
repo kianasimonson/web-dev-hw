@@ -28,5 +28,6 @@
   ![Screenshot Of my Directory](./images/bookcover.jpg)
   ![Screenshot Of my Directory](./images/burninghouse.jpg)
   ![Screenshot Of my Directory](./images/crimescene.jpg)
+  ![Screenshot Of my Directory](./images/james.jpg)
   </body>
 </html>
