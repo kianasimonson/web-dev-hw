@@ -17,7 +17,7 @@
 
   #ff0000  #000000  #ffffff  #505050 #a0a0a0
 
-  This palette doesn't show the exact colors but close to what I will be using for my website. 
+  This palette doesn't show the exact colors but close to what I will be using for my website.
 
   ![Screenshot Of my Directory](./images/colorpalette.png)
 
@@ -27,3 +27,6 @@
   ![Screenshot Of my Directory](./images/burninghouse.jpg)
   ![Screenshot Of my Directory](./images/crimescene.jpg)
   ![Screenshot Of my Directory](./images/james.jpg)
+
+
+I really like the time.com website and I believe it is more of the direction I am headed on how I want to present my website. I always like a pop of color in my outfits, in my jewerly, and I think in media it shines even brighter. An accent color is definitely what I am aiming for with my website. 
