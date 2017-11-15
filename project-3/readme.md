@@ -13,7 +13,7 @@
 
   3. I love every book I have read from James Patterson. He really knows how to make a mystery so entertaining. I always have trouble putting his books down.
 
-  James Patterson started writing at the age of nineteen from Newburgh, New York. Before becoming a writer he was set on track to become a professor and decided this wasn't the lifestyle for him. Invisible is an unbelievale book with a plot twist that will blow your mind. I always ponder on how authors come of with ideas such as these, but their imagination has to be wild.
+  James Patterson started writing at the age of nineteen from Newburgh, New York. Before becoming a writer he was set on track to become a professor and decided this wasn't the lifestyle for him. Invisible is an unbelievale book with a plot twist that will blow your mind. I always ponder on how authors come up with ideas such as these, but their imagination has to be wild.
 
   4. Color pallette:
 
