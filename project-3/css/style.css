@@ -10,8 +10,8 @@ h1 {
     font-size: 150%;
 }
 
-.content {
-  background-color: $colrgb(255, 0, 0)or-red;
+.index.html {
+  background-color: rgb(255, 0, 0);
   color:inherit
   margin: auto;
   position: relative;
