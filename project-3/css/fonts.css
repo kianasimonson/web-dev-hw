@@ -1,26 +1,26 @@
 @font-face {
-    font-family: 'Roboto', serif;
+    font-family: 'Roboto';
     src:
         url('../fonts/Roboto.ttf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
-    font-family: 'Roboto', serif;
+    font-family: 'Roboto';
     src:
         url('../fonts/Roboto.ttf') format('opentype');
     font-weight: normal;
     font-style: italic;
 }
 @font-face {
-    font-family: 'Roboto', serif;
+    font-family: 'Roboto';
     src:
         url('../fonts/Roboto.ttf') format('opentype');
     font-weight: bold;
     font-style: normal;
 }
 @font-face {
-    font-family: 'Roboto', serif;
+    font-family: 'Roboto';
     src:
         url('../fonts/Roboto.ttf') format('opentype');
     font-weight: bold;
