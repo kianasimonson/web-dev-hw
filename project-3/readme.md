@@ -32,3 +32,5 @@
 
 
 I really like the time.com website and I believe it is more of the direction I am headed on how I want to present my website. I always like a pop of color in my outfits, in my jewerly, and I think in media it shines even brighter. An accent color is definitely what I am aiming for with my website.
+</br>
+I'm struggling with fonts more than any coding. I don't understand when part of the code needs to be in CSS and the other section needs to be in html. 
