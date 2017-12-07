@@ -1,7 +1,7 @@
-.boxed {
-  border: 1px blue;
-}
-
-.opener {
-  border: 5px double black;
+div {
+    background-color: lightgrey;
+    width: 300px;
+    border: 25px blue;
+    padding: 25px;
+    margin: 25px;
 }
